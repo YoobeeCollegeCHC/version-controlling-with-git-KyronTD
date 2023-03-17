@@ -1,0 +1,6 @@
+<html>
+	<head> Hello CS202 </Head>
+	<body>
+		<h1> Welcome to Github Actions</h1>
+	</body>
+</html>
